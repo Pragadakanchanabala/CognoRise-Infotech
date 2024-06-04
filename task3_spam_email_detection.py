@@ -23,7 +23,7 @@ import nltk
 import re
 import matplotlib.pyplot as plt
 import seaborn as sns
-df=pd.read_csv('/content/email_spam.csv')
+df=pd.read_csv('C:/Users/praga/Downloads/CognoRise-main/CognoRise-main/spam.csv')
 df
 
 df.head()
