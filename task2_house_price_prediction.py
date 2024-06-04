@@ -40,7 +40,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-df=pd.read_csv('/content/house_price_data.csv')
+df=pd.read_csv('C:/Users/praga/Downloads/CognoRise-main/CognoRise-main/data(1).csv')
 df
 
 df.head()
